@@ -2,7 +2,7 @@
 
 This is simply a webview wrapper for Facebook messenger for Mac OS X, which means that you can have a single/standalone Facebook messenger on your Mac.
 
-[Download link](./FBMessenger.app)
+[Download link](https://raw.githubusercontent.com/heronyang/FBMessenger/master/FBMessenger.zip)
 
 ![](https://raw.githubusercontent.com/heronyang/FBMessenger/master/screenshot.png)
 
