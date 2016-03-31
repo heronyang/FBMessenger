@@ -4,6 +4,8 @@ This is simply a webview wrapper for Facebook messenger for Mac OS X, which mean
 
 [Download link](./FBMessenger.app)
 
+![](.//Users/heron/Program/Mac\ App/FBMessenger/screenshot.png)
+
 ## Credit
 
 - Icons made by [Freepik](http://www.freepik.com) from [Flaticon](http://www.flaticon.com) is licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/)
