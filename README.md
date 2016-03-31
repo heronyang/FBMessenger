@@ -4,7 +4,7 @@ This is simply a webview wrapper for Facebook messenger for Mac OS X, which mean
 
 [Download link](./FBMessenger.app)
 
-![](.//Users/heron/Program/Mac\ App/FBMessenger/screenshot.png)
+![](https://raw.githubusercontent.com/heronyang/FBMessenger/master/screenshot.png)
 
 ## Credit
 
